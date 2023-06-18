@@ -1,5 +1,5 @@
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> ## Get In Touch
+<h3 align="left">Get In Touch</h3>
+<p align="left">
 <a href="mailto:olumohbabatunde@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/babatunde-olumoh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.youtube.com/channel/UCycbn1OitjOGVnvCNHgKZSw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://github.com/BabaOlumoh"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
 
 
