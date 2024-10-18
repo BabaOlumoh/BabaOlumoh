@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Babatunde
-- 👀 I’m interested in Web Development and Web3
-- 🌱 I’m currently learning C#, JavaScript and React
+- 👀 I’m now interested in Cloud Computing 
+- 🌱 I’m currently learning Python and Linux?
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by 👇🏽
 <h3 align="left">Getting In Touch via</h3>
 <p align="left">
-<a href="mailto:olumohbabatunde@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/babatunde-olumoh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.youtube.com/channel/UCycbn1OitjOGVnvCNHgKZSw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://babatunde-portfolio-18a034.netlify.app/"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
+<a href="mailto:olumohbabatunde@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/abdul-olumoh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.youtube.com/channel/UCycbn1OitjOGVnvCNHgKZSw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://babatunde-portfolio-18a034.netlify.app/"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
 
 
 
