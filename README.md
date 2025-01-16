@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Babatunde
-- 👀 I’m now interested in Cloud Computing and DevOps.
+- 👀 I’m currently interested in Cloud Computing and DevOps.
 - 🌱 I’m currently learning Bash, Linux and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by 👇🏽
